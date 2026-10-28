@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Id": "zafkiel.clock",
+        "Name": "Zafkiel Clock",
+        "Description": "Custom analog clock inspired by Zafkiel",
+        "Version": "1.0",
+        "Category": "Date and Time",
+        "License": "GPL-3.0-or-later",
+        "Authors": [
+            {
+                "Name": "Zafkiel Clock"
+            }
+        ]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
